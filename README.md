@@ -2,11 +2,11 @@
 
 **What was the problem you were solving in the projects for this course?**
 
-The problems that I faced in this course was figuring out the best way to store and organize data using various methods.
+The problems that I faced in this course was figuring out the best way to store and organize data using various methods. We sort things into categories every day, but it's not often that you really sit down and thing about the structure of that mental organization. The problem that this course forces you to think about is exactly how information should be laid out for processing and practical application.
 
 **How did you approach the problem? Consider why data structures are important to understand.**
 
-This course definitely challenges your logical capacity and makes you really consider how to efficiently structure data for practical applications within a programming language. 
+This course definitely challenges your logical capacity and makes you really consider how to efficiently structure data for practical applications within a programming language. I view data structures and algorithms as tools designed for specific applications. I watch a lot of programming YouTubers that teach Leetcode techniques and things of that sort, and they all make a similar point on a regular basis: learning the patterns and where these tools are best used is one of the biggest parts of understanding this topic. Now that I have some experience working with these sorts of problems, approaching more technical interview prep like Leetcode seems much more achievable as I know it is really important for the job searching process.
 
 **How did you overcome any roadblocks you encountered while going through the activities or project?**
 
